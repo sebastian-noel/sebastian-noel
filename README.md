@@ -2,7 +2,12 @@
   <img src="sebastian-noel-city.gif" alt="profile gif" width="600">
 </p>
 
-<!-- <h2 align="center">swe intern @ <a href="https://www.bny.com/corporate/global/en.html">bny</a> | undergrad computer vision research @ <a href="https://www.crcv.ucf.edu/">crcv</a> | dev lead @ <a href="https://github.com/GraphicsProgrammingKnights/gpkweb">gpk</a></h2> -->
+<h3 align="center">returning swe intern @ <a href="https://www.bny.com/corporate/global/en.html">bny</a> | swe lead @ <a href="https://github.com/GraphicsProgrammingKnights/gpkweb">gpk</a> | outreach board @ <a href="https://club.knighthacks.org/">knight hacks</a></h3>
+
+<p align="center">
+  cs @ <a href="https://www.ucf.edu/">ucf</a> (robotics minor) &middot; prev swe intern @ <a href="https://www.ist.ucf.edu/">ucf-ist</a><br>
+  prev computer vision research @ <a href="https://www.crcv.ucf.edu/">crcv</a> &middot; 5x <a href="https://devpost.com/sebastian-noel">hackathon winner</a>
+</p>
 
 <h3 align="center">contact / connect: <a href="mailto:snoel.dev@gmail.com">snoel.dev@gmail.com</a></h3>
 <p align="center">
