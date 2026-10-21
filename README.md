@@ -2,7 +2,7 @@
   <img src="sebastian-noel-city.gif" alt="profile gif" width="600">
 </p>
 
-<h3 align="center">swe intern @ <a href="https://www.bny.com/corporate/global/en.html">bny</a> | swe lead @ <a href="https://github.com/GraphicsProgrammingKnights/gpkweb">gpk</a> | mentor & outreach @ <a href="https://club.knighthacks.org/">knight hacks</a></h3>
+<h3 align="center">2x swe intern @ <a href="https://www.bny.com/corporate/global/en.html">bny</a> | swe lead @ <a href="https://github.com/GraphicsProgrammingKnights/gpkweb">gpk</a> | mentor & outreach @ <a href="https://club.knighthacks.org/">knight hacks</a></h3>
 
 <h4 align="center">
   8x <a href="https://devpost.com/sebastian-noel">hackathon</a> winner
